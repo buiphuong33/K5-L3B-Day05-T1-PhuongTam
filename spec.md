@@ -4,7 +4,7 @@
 
 | Họ và Tên                | Mã Học Viên | Việc đã làm                                                                                                                                                                                                                               |
 | ------------------------ | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tâm (điền họ tên đầy đủ) | (điền)      | Phần phân tích: §1 lát cắt và phạm vi, §2 kịch bản rủi ro và chọn 2 kịch bản đắt nhất, §4 mức tự chủ của 5 tool và thử trên 3 kịch bản, §6 tiêu chí Pass/Fail. Demo: lát cắt, mức tự chủ, trả lời "sai thì ai mất gì"                     |
+| Phạm Minh Tâm | 2A202604097      | Phần phân tích: §1 lát cắt và phạm vi, §2 kịch bản rủi ro và chọn 2 kịch bản đắt nhất, §4 mức tự chủ của 5 tool và thử trên 3 kịch bản, §6 tiêu chí Pass/Fail. Demo: lát cắt, mức tự chủ, trả lời "sai thì ai mất gì"                     |
 | Bùi Thu Phương           | 2A202604080 | Phần trải nghiệm: §3 khi AI sai (câu AI nói, cái khách thấy, người được báo, loại lỗi, HAX/PAIR), dựng prototype 2 màn (`prototype/index.html`), §5 ảnh đánh số và lập luận cách hiện. Demo: bấm prototype qua ca khó, chỉ từng chỗ G\_\_ |
 
 > Nhóm 2 người (README yêu cầu 3), đã báo TA / giảng viên: (điền xác nhận).
@@ -228,9 +228,9 @@ Mức nào cũng có giá:
 
 | Phương án                       | Ai chọn lúc xếp riêng | Cái giá                                                                                    | Kịch bản cho thấy giá đó                                 |
 | ------------------------------- | --------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
-| **Tự làm** (mọi lúc)            | (điền)                | Gợi ý thuốc cho người không được gợi ý; thuốc đã uống không đảo được                       | K12, K13, K3, K10                                        |
-| **Cần dược sĩ duyệt** mọi gợi ý | (điền)                | Mọi câu hỏi đơn giản đều phải chờ dược sĩ. Lúc tối muộn hàng chờ dài, ca khẩn bị chậm theo | K1, K4 (ca thường phải chờ vô ích)                       |
-| **Cấm**                         | (điền)                | Mất luôn giá trị của tính năng; khách hỏi nước muối cũng phải chờ người                    | K1                                                       |
+| **Tự làm** (mọi lúc)            | Tâm                | Gợi ý thuốc cho người không được gợi ý; thuốc đã uống không đảo được                       | K12, K13, K3, K10                                        |
+| **Cần dược sĩ duyệt** mọi gợi ý | Tâm                | Mọi câu hỏi đơn giản đều phải chờ dược sĩ. Lúc tối muộn hàng chờ dài, ca khẩn bị chậm theo | K1, K4 (ca thường phải chờ vô ích)                       |
+| **Cấm**                         | Phương                | Mất luôn giá trị của tính năng; khách hỏi nước muối cũng phải chờ người                    | K1                                                       |
 | **Tự làm có điều kiện**         | **Nhóm chốt**         | Còn rủi ro nếu khách khai sai ở bước sàng lọc                                              | K4 (khách tích "không có" nhưng thật ra đang dùng thuốc) |
 
 **Cách chốt: tự làm có điều kiện.** Tool chỉ được gọi khi **đủ cả 4 điều kiện**:
